@@ -1,4 +1,4 @@
-# Crossword Puzzle Generator
+# Crossword Generator
 
 This project was inspired by this website: https://www.puzzle-maker.com/CW
 
