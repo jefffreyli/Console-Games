@@ -19,5 +19,5 @@ No OOP. Everything is inside the main method with 12 helper methods.
 
 ## Files
 
-CrosswordGenerator.java will generate the playable crossword puzzle.
-CrosswordGeneratorKey.java will generate the key to the crossword puzzle. 
+* CrosswordGenerator.java will generate the playable crossword puzzle.
+* CrosswordGeneratorKey.java will generate the key to the crossword puzzle. 
