@@ -1,7 +1,6 @@
 import java.util.*;
 
 public class CrosswordGeneratorKey {
-   // private static String[] words = new String[5];
    private static String[] hints = new String[5];
    private static String[] sameLetters = new String[100];
    private static int[] xPosition = new int[100];
