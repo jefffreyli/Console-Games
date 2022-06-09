@@ -14,8 +14,8 @@ No OOP. Everything is inside the main method with 12 helper methods.
 6. Steps 2 - 5 are inside a while loop that stops when the iterations hit 6 and when allWordsPlaced returns true. The reason why I have 6 there is because sometimes it is impossible to put a word down. Looping it 6 times ensures there’s no infinite loop.
 
 ## Flaws
-\* Not all words can be placed sometimes. 
-\* Because this project was done only with arrays as a challenge from my teacher, the sizes aren't dynamic. Word length is limited, as the board is a 40x40 grid. 
+* Not all words can be placed sometimes. 
+* Because this project was done only with arrays as a challenge from my teacher, the sizes aren't dynamic. Word length is limited, as the board is a 40x40 grid. 
 
 ## Files
 
